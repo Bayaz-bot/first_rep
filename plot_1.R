@@ -4,3 +4,4 @@ plot(y,x)
 test
 m_1 <- lm(y~x)
 summary(m_1)
+#this a very good code!
